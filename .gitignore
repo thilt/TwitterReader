@@ -1,0 +1,7 @@
+# idea conf files
+.idea
+*.iml
+*.ipr
+*.iws
+
+gen
